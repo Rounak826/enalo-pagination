@@ -1,0 +1,12 @@
+table {
+  border: solid 1px gray;
+  margin: 4rem auto;
+}
+td {
+  border: solid 1px blue;
+}
+.controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
